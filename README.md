@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently full time **Android Developer**
 
-- 🌱 I’m currently learning **Jetpack and Flutter**
+- 🌱 I’m currently learning **Jetpack Compose, Flutter, Swift**
 
 - 📫 How to reach me **satriawarn@gmail.com**
 

@@ -12,13 +12,11 @@
 <!-- <a href="https://instagram.com/ericsath" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="ericsath" height="40" width="40"/></a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" alt="android" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
-</p>
+<h3 align="left">Languages and Frameworks:</h3>
+
+- Java/Kotlin<img align="left" alt="android" width="22px" src="https://www.vectorlogo.zone/logos/android/android-tile.svg"/>
+- Dart (Flutter)<img align="left" alt="flutter" width="22px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/> 
+- Swift/UIKit<img align="left" alt="swift" width="22px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"/>
 
 ![Eric Sartiawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=satriawarn)
 
